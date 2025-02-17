@@ -7,11 +7,12 @@ This repository contains a collection of various **Machine Learning** and **Deep
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=yellow" alt="Stars">
-  <img src="https://img.shields.io/github/forks/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=green" alt="Forks">
-  <img src="https://img.shields.io/github/issues/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=red" alt="Issues">
-  <img src="https://img.shields.io/github/issues-pr/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=pink" alt="Pull Requests">
-  <img src="https://img.shields.io/github/repo-size/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=blue" alt="Repo Size">
+  <img src="https://img.shields.io/github/stars/engineers-planet/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/forks/engineers-planet/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=brightgreen" alt="Forks">
+  <img src="https://img.shields.io/github/issues/engineers-planet/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=red" alt="Issues">
+  <img src="https://img.shields.io/github/issues-pr/engineers-planet/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=deeppink" alt="Pull Requests">
+  <img src="https://img.shields.io/github/repo-size/engineers-planet/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=blue" alt="Repo Size">
+  <img src="https://img.shields.io/github/contributors/engineers-planet/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=gold" alt="Contributors">
 </p>
 
 ## Table of Contents
@@ -207,4 +208,4 @@ In this section, the main files and datasets for each project have been listed. 
 
 ### Thanks for Visiting!
 
-If you find this repository useful, please consider starring it 🌟 and sharing it with others. Your support helps the community grow and encourages more open-source contributions.
+If you find this repository useful, please consider starring it 🌟 and sharing it with others. Your support helps the community grow.
