@@ -6,11 +6,13 @@ This repository contains a collection of various **Machine Learning** and **Deep
   <img src="https://engineersplanet.com/wp-content/uploads/2024/05/New-Ep-Logo-2.png.webp" alt="Logo" height="200"/>
 </p>
 
-![Stars](https://img.shields.io/github/stars/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=yellow)
-![Forks](https://img.shields.io/github/forks/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=green)
-![Issues](https://img.shields.io/github/issues/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=red)
-![Pull Requests](https://img.shields.io/github/issues-pr/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=pink)
-![Repo Size](https://img.shields.io/github/repo-size/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=blue)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/forks/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=green" alt="Forks">
+  <img src="https://img.shields.io/github/issues/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=red" alt="Issues">
+  <img src="https://img.shields.io/github/issues-pr/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=pink" alt="Pull Requests">
+  <img src="https://img.shields.io/github/repo-size/madhurimarawat/Machine-Learning_Deep-learning_Free-Download?style=for-the-badge&color=blue" alt="Repo Size">
+</p>
 
 ## Table of Contents
 
